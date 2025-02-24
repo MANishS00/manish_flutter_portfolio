@@ -57147,7 +57147,7 @@ A.pc.prototype={
 uk(){var s=0,r=A.N(t.H),q
 var $async$uk=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:q=document.createElement("a")
-q.href="assets/CSE_Manish_Resume.pdf"
+q.href="CSE_Manish_Resume.pdf"
 q.target="blank"
 q.click()
 return A.L(null,r)}})
